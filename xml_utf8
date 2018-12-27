@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docodoco>
+	<IP>210.251.250.30</IP>
+	<CountryCode>JP</CountryCode>
+	<CountryAName>japan</CountryAName>
+	<CountryJName>日本</CountryJName>
+	<PrefCode>22</PrefCode>
+	<PrefAName>shizuoka</PrefAName>
+	<PrefJName>静岡</PrefJName>
+	<PrefLatitude>34.97682</PrefLatitude>
+	<PrefLongitude>138.38315</PrefLongitude>
+	<PrefCF>00</PrefCF>
+	<CityCode>22206</CityCode>
+	<CityAName>mishima-shi</CityAName>
+	<CityJName>三島市</CityJName>
+	<CityLatitude>35.11772</CityLatitude>
+	<CityLongitude>138.91868</CityLongitude>
+	<CityCF>00</CityCF>
+	<BCFlag>b</BCFlag>
+	<OrgCode>100002637</OrgCode>
+	<OrgOfficeCode>0</OrgOfficeCode>
+	<OrgIndependentCode>0</OrgIndependentCode>
+	<OrgName>サイバーエリアリサーチ株式会社</OrgName>
+	<OrgPrefCode>22</OrgPrefCode>
+	<OrgCityCode>22206</OrgCityCode>
+	<OrgZipCode>411-0036</OrgZipCode>
+	<OrgAddress>静岡県三島市一番町18-22　アーサーファーストビル4F</OrgAddress>
+	<OrgTel>055-991-5544</OrgTel>
+	<OrgFax>055-991-5540</OrgFax>
+	<OrgIpoType>9</OrgIpoType>
+	<OrgDate>200002</OrgDate>
+	<OrgCapitalCode>4</OrgCapitalCode>
+	<OrgEmployeesCode>3</OrgEmployeesCode>
+	<OrgGrossCode>2</OrgGrossCode>
+	<OrgPresident>山本　敬介</OrgPresident>
+	<OrgIndustrialCategoryL>G</OrgIndustrialCategoryL>
+	<OrgIndustrialCategoryM>37,39,40</OrgIndustrialCategoryM>
+	<OrgIndustrialCategoryS>373,391,392,401</OrgIndustrialCategoryS>
+	<OrgIndustrialCategoryT>3731,3911,3921,3929,4013</OrgIndustrialCategoryT>
+	<OrgDomainName>arearesearch.co.jp</OrgDomainName>
+	<OrgUrl>http://www.arearesearch.co.jp/</OrgUrl>
+	<OrgLatitude>35.1246742</OrgLatitude>
+	<OrgLongitude>138.9101771</OrgLongitude>
+	<LineCode>f</LineCode>
+	<LineJName>フレッツISDN</LineJName>
+	<LineCF>95</LineCF>
+	<ProxyFlag>0</ProxyFlag>
+	<TelCode>059</TelCode>
+	<DomainName>arearesearch.co.jp</DomainName>
+	<ContinentCode>3</ContinentCode>
+	<RegionCode>03</RegionCode>
+	<OrgDomainType>.co.jp</OrgDomainType>
+	<TimeZone>+0900</TimeZone>
+	<StockTickerNumber></StockTickerNumber>
+	<DomainType>.co.jp</DomainType>
+	<EncryptedIP>29d2fb37d3</EncryptedIP>
+	<Weather>
+		<Area AreaName="静岡県東部">
+			<WeatherUpdateTime>2016-02-18 11:30:11</WeatherUpdateTime>
+			<TodayWeather>雨か雪のち曇(雨が主体の時)</TodayWeather>
+			<TodayWeatherCode>317</TodayWeatherCode>
+			<TomorrowWeather>晴時々曇</TomorrowWeather>
+			<TomorrowWeatherCode>101</TomorrowWeatherCode>
+			<DayAfterTomorrowWeather>晴</DayAfterTomorrowWeather>
+			<DayAfterTomorrowWeatherCode>100</DayAfterTomorrowWeatherCode>
+			<TodayHighTemperature>13</TodayHighTemperature>
+			<TodayHighTemperatureCode>8</TodayHighTemperatureCode>
+			<TomorrowLowTemperature>2</TomorrowLowTemperature>
+			<TomorrowLowTemperatureCode>6</TomorrowLowTemperatureCode>
+			<TomorrowHighTemperature>7</TomorrowHighTemperature>
+			<TomorrowHighTemperatureCode>7</TomorrowHighTemperatureCode>
+			<TodayRainProbability>50</TodayRainProbability>
+			<TomorrowRainProbability>20</TomorrowRainProbability>
+			<TodayWindDirection>西</TodayWindDirection>
+			<TomorrowWindDirection>西</TomorrowWindDirection>
+			<ForecastHighTemperature>13</ForecastHighTemperature>
+			<ForecastHighTemperatureCode>8</ForecastHighTemperatureCode>
+		</Area>
+		<Point PointName="静岡県三島市">
+			<WeatherUpdateTime>2016-02-18 15:11:05</WeatherUpdateTime>
+			<Weather>曇り</Weather>
+			<WeatherCode>20</WeatherCode>
+			<Temperature>9</Temperature>
+			<TemperatureCode>7</TemperatureCode>
+			<Humidity>72</Humidity>
+			<Rainfall>0</Rainfall>
+			<ForecastUV>1</ForecastUV>
+		</Point>
+	</Weather>
+	<HoujinBangou_3>
+		<OrgCode>100002637</OrgCode>
+		<HoujinBangou>4080101006447</HoujinBangou>
+		<HoujinName>サイバーエリアリサーチ株式会社</HoujinName>
+		<HoujinAddress>静岡県三島市一番町１８-２２</HoujinAddress>
+		<HoujinLastUpdate>2015-11-13</HoujinLastUpdate>
+	</HoujinBangou_3>
+</docodoco>
