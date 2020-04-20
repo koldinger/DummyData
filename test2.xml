@@ -1,55 +1,30 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-        <result>
-            <company>
-                <id><![CDATA[ 4072945 ]]></id>
-                <name><![CDATA[ Sendoso ]]></name>
-                <address><![CDATA[ 639 Front Street Floor 3 ]]></address>
-                <city><![CDATA[ San Francisco ]]></city>
-                <state><![CDATA[ CA ]]></state>
-                <statename><![CDATA[ California ]]></statename>
-                <statecode><![CDATA[ CA ]]></statecode>
-                <zip><![CDATA[ 94111 ]]></zip>
-                <country><![CDATA[ USA ]]></country>
-                <countryname><![CDATA[ United States ]]></countryname>
-                <countrycode><![CDATA[ US ]]></countrycode>
-                <revenue><![CDATA[ 0 ]]></revenue>
-                <revenue_mil><![CDATA[ 0 ]]></revenue_mil>
-                <employees><![CDATA[ 50 ]]></employees>
-                <website><![CDATA[ http://www.sendoso.com ]]></website>
-                <recordmanager_email><![CDATA[ research@discoverorg.com ]]></recordmanager_email>
-                <industry><![CDATA[ Logistics / Transportation ]]></industry>
-                <companydescription><![CDATA[ Sendoso, founded in 2016, helps companies accelerate sales and retain customers with gifts and rewards. Sendosos cloud-based gifting platform centralizes all gifting outreach touches and gives companies the ability to send eGifts for Coffee, Lunch, Tickets, Wine, Rides, Swag, Visa/Amex Cards, Handwritten Notes, Experiences, Sales Kits, and custom gifts. Sendoso automates delivery/fulfillment, simplifies ROI reporting, intelligently suggests recipients, and includes seamless integrations into Salesforce, SurveyMonkey, Marketo, Eloqua, HubSpot, Pardot, and many others. They are headquartered in San Francisco. ]]></companydescription>
-                <sic><![CDATA[ 4225,7371 ]]></sic>
-                <sic1><![CDATA[ 4225 ]]></sic1>
-                <sic2><![CDATA[ 7371 ]]></sic2>
-                <naics><![CDATA[ 493110 ]]></naics>
-                <technologies>
-                <CRM-MarketingAutomation>
-                    Engagio, Pardot
-                </CRM-MarketingAutomation>
-            </technologies>
-        </company>
-        <pers>
-            <id><![CDATA[ 6661970 ]]></id>
-            <name><![CDATA[ Nick Casale ]]></name>
-            <firstname><![CDATA[ Nick ]]></firstname>
-            <lastname><![CDATA[ Casale ]]></lastname>
-            <title><![CDATA[ Account Executive ]]></title>
-            <reportsto><![CDATA[ Kris Rudeegraap ]]></reportsto>
-            <address><![CDATA[ 639 Front Street ]]></address>
-            <city><![CDATA[ San Francisco ]]></city>
-            <state><![CDATA[ CA ]]></state>
-            <statename><![CDATA[ California ]]></statename>
-            <statecode><![CDATA[ CA ]]></statecode>
-            <zip><![CDATA[ 94111 ]]></zip>
-            <country><![CDATA[ USA ]]></country>
-            <countryname><![CDATA[ United States ]]></countryname>
-            <countrycode><![CDATA[ US ]]></countrycode>
-            <publicNotes><![CDATA[ Nick previously worked as an Account Executive at Talkdesk until September 2017. ]]></publicNotes>
-            <linkedIn><![CDATA[ https://www.linkedin.com/in/casalenick/ ]]></linkedIn>
-            <senioritylevel><![CDATA[ Representative ]]></senioritylevel>
-            <jobfunction><![CDATA[ Account Management ]]></jobfunction>
-            <jobfunction1><![CDATA[ Account Management ]]></jobfunction1>
-        </pers>
-        <resultcount>1</resultcount>
-    </result>
+<?xml version="1.0" encoding="UTF-8"?>
+         <SOAP-ENV:Body xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" wsu:Id="Body-f41a9326-c2c4-4e5a-989f-a5806a6e8100">
+           <tns:queryContactGlobalPreferencesResponse xmlns:tns="http://integration.sprint.com/interfaces/queryContactGlobalPreferences/v1/queryContactGlobalPreferences.xsd">
+             <tns:certificationList>
+               <tns:certificationInfo>
+                 <tns:contactType>Email</tns:contactType>
+                 <tns:contactTypeValueInfo>
+                   <tns:emailAddress>mbordes@emcor.net</tns:emailAddress>
+                 </tns:contactTypeValueInfo>
+                 <tns:campaignName>SPRGPROM</tns:campaignName>
+                 <tns:country>USA</tns:country>
+                 <tns:certificationSummaryInd>true</tns:certificationSummaryInd>
+                 <tns:detailedCertificationList>
+                   <tns:detailedCertificationInfo>
+                     <tns:parameterName>certstatus</tns:parameterName>
+                     <tns:parameterValue>0</tns:parameterValue>
+                   </tns:detailedCertificationInfo>
+                   <tns:detailedCertificationInfo>
+                     <tns:parameterName>campaignname</tns:parameterName>
+                     <tns:parameterValue>SPRGPROM</tns:parameterValue>
+                   </tns:detailedCertificationInfo>
+                   <tns:detailedCertificationInfo>
+                     <tns:parameterName>internal</tns:parameterName>
+                     <tns:parameterValue>0</tns:parameterValue>
+                   </tns:detailedCertificationInfo>
+                 </tns:detailedCertificationList>
+               </tns:certificationInfo>
+             </tns:certificationList>
+           </tns:queryContactGlobalPreferencesResponse>
+         </SOAP-ENV:Body>
